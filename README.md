@@ -2,7 +2,7 @@
 
 GuacBlocked is a Tampermonkey script spiritual successor to [**CheekyAvo**](https://github.com/cheekyavo/cheekyavo). 
 
-Instead of trying to guess hidden price ranges, GuacBlocked pulls the Capital Value (CV) and sticks it right on the TradeMe search results and listing pages.
+Annoyed by TradeMe listings showing "Price by negotiation", "Auction on...", "Deadline sale by..." instead of a price? Instead of trying to guess the hidden expected sale price through testing price ranges, GuacBlocked pulls the Capital Value (CV) and sticks it on the TradeMe search results and listing pages. The CV is only a rough estimate of what the property may go for and isn't a complete replacement for the expected sale price, but it's better than nothing.
 
 Contributions welcome!
 
