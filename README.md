@@ -1,6 +1,6 @@
 # GuacBlocked
 
-GuacBlocked is a Tampermonkey script spiritual successor to **CheekyAvo**. 
+GuacBlocked is a Tampermonkey script spiritual successor to [**CheekyAvo**](https://github.com/cheekyavo/cheekyavo). 
 
 Instead of trying to guess hidden price ranges, GuacBlocked pulls the Capital Value (CV) and sticks it right on the TradeMe search results and listing pages.
 
