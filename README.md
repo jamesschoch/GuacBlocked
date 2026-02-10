@@ -28,4 +28,5 @@ You’ll need a userscript manager like **Tampermonkey** (recommended), **Grease
 Once the script is running, you'll see a small 🥑 icon in the bottom-right corner of TradeMe. Click that to open the settings menu. You can toggle the script on/off for search results or listing pages, change the cache duration, or clear your stored results.
 
 ### Disclaimer
+There will probably be bugs and things may go wrong.
 CVs are government ratings for tax purposes and often don't reflect what a house will actually sell for. Use it as a reference, not a rule. Also, using scripts like this probably goes against TradeMe's terms of service, so use it at your own risk.
