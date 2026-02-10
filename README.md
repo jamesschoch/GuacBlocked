@@ -1,3 +1,5 @@
+![GuacBlocked](BANNER.jpg)
+
 # GuacBlocked
 
 GuacBlocked is a Tampermonkey script spiritual successor to [**CheekyAvo**](https://github.com/cheekyavo/cheekyavo). 
