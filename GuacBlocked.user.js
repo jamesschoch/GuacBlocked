@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         GuacBlocked
 // @namespace    https://github.com/jamesschoch/GuacBlocked/
-// @version      1.0.0
+// @version      1.0.1
 // @description  Adds capital value to TradeMe search results and listing pages with request queueing, logging, and rate limiting
 // @author       James Schoch
 // @match        https://www.trademe.co.nz/a/property/*
@@ -17,10 +17,6 @@
     const style = document.createElement('style');
     style.textContent = `
         #cv-settings-modal {
-            display: none !important;
-        }
-        #cv-settings-modal:not([style*="none"]) {
-            display: flex !important;
             align-items: center;
             justify-content: center;
         }
