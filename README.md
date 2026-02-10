@@ -4,6 +4,8 @@ GuacBlocked is a Tampermonkey script spiritual successor to [**CheekyAvo**](http
 
 Instead of trying to guess hidden price ranges, GuacBlocked pulls the Capital Value (CV) and sticks it right on the TradeMe search results and listing pages.
 
+Contributions welcome!
+
 ### What it does
 *   Retrieves the CV for each search result from the TradeMe API
 *   Adds the CV onto TradeMe search cards so you can see while scrolling
